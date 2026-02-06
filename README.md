@@ -1,4 +1,3 @@
-This directory contains basic shell scripts for Holberton intranet testing.
+holbertonschool-shell
 
-0-current_working_directory: Prints the absolute path of the current working directory.
-1-listit: Lists the contents of the current directory.
+task 0 script that prints the absolute path name of the current working directory.
