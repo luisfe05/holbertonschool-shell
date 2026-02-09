@@ -1,55 +1,57 @@
-SHELL, basics - Project
+### Shell, basics
 
-0. Where am I?
-Write a script that prints the absolute path name of the current working directory.
+## 📋 Tasks list
 
-1. What’s in there?
-Display the contents list of your current directory.
+**0. Where am I?**
+> Write a script that prints the absolute path name of the current working directory.
 
-2. There is no place like home
-Write a script that changes the working directory to the user’s home directory.
+**1. What’s in there?**
+> Display the contents list of your current directory.
 
-3. The long format
-Display current directory contents in a long format
+**2. There is no place like home**
+> Write a script that changes the working directory to the user’s home directory.
 
-4. Hidden files
-Display current directory contents, including hidden files (starting with .). Use the long format.
+**3. The long format**
+> Display current directory contents in a long format.
 
-5. I love numbers
-Display current directory contents.
+**4. Hidden files**
+> Display current directory contents, including hidden files (starting with .). Use the long format.
 
-6. Welcome
-Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+**5. I love numbers**
+> Display current directory contents.
 
-7. Betty in my first directory
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+**6. Welcome**
+> Create a script that creates a directory named `my_first_directory` in the `/tmp/` directory.
 
-8. Bye bye Betty
-Delete the file betty.
+**7. Betty in my first directory**
+> Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 
-9. Bye bye My first directory
-Delete the directory my_first_directory that is in the /tmp directory.
+**8. Bye bye Betty**
+> Delete the file `betty`.
 
-10. Back to the future
-Write a script that changes the working directory to the previous one.
+**9. Bye bye My first directory**
+> Delete the directory `my_first_directory` that is in the `/tmp` directory.
 
-11. Lists
-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+**10. Back to the future**
+> Write a script that changes the working directory to the previous one.
 
-12. File type
-Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
+**11. Lists**
+> Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the `/boot` directory (in this order), in long format.
 
-13. We are symbols, and inhabit symbols
-Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+**12. File type**
+> Write a script that prints the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp` directory when we will run your script.
 
-14. Copy HTML files
-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+**13. We are symbols, and inhabit symbols**
+> Create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link should be created in the current working directory.
 
-15. Let’s move
-Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
+**14. Copy HTML files**
+> Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 
-16. Clean Emacs
-Create a script that deletes all files in the current working directory that end with the character ~.
+**15. Let’s move**
+> Create a script that moves all files beginning with an uppercase letter to the directory `/tmp/u`.
 
-17. Tree
-Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+**16. Clean Emacs**
+> Create a script that deletes all files in the current working directory that end with the character `~`.
+
+**17. Tree**
+> Create a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory.
