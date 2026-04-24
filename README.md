@@ -1,16 +1,16 @@
-# SEIP - Part 1 -Project
+# SEIP - Part 1
 
-## 📂 basics
-> Introduction to basic shell commands and navigation.
+Collection of Holberton School shell projects covering the basics of the Linux shell, file permissions, I/O redirections and filters, and init files with variables and expansions.
 
+## Projects
 
-## 🔐 permissions
-> Focuses on Linux file permissions and ownership.
+| Folder | Description |
+|--------|-------------|
+| `basics` | Introduction to basic shell commands and navigation. |
+| `permissions` | File permissions and ownership in Linux. |
+| `io_redirections_and_filters` | Input/output redirection and text processing filters. |
+| `init_files_variables_and_expansions` | Shell initialization files, variables, aliases, and expansions. |
 
+## Author
 
-## ⚙️ init_files_variables_and_expansions
-> Covers shell initialization files, variables, aliases, and expansions.
-
-
-## 🔄 io_redirections_and_filters
-> Explores input/output redirection and text processing.
+Luis — Holberton School
